@@ -1,6 +1,6 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*Kgt-NcWs9rhZKjk9wR1vxg.jpeg)](https://ayushi-rastogi.io)
 <h1 align="center">Hi 👋, I'm Ayushi Rastogi</h1>
-<h3 align="center">A passionate researcher in field of cryptograhy from India</h3>
+<h3 align="center">A passionate researcher in field of cryptography from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/X4fkkTFDTx4AAAAC/physical-security-market.gif">
 
 - 🔭 I’m currently working on **FPGA-based hardware accelerators for crypto-primitives**
