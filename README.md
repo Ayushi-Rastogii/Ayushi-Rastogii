@@ -16,7 +16,7 @@
 - 📄 Know about my experiences [https://rayushi835.wixsite.com/ayushi](https://rayushi835.wixsite.com/ayushi)
 
 - ⚡ Fun fact **I think I am a vibrant person**
-
+- My Research Interest **Cryptography, Searchable Symmetric Encryption, FPGA-based Accelerators**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ayushi-rastogii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushi-rastogii" height="30" width="40" /></a>
