@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Searchable Symmetric Encryption and Privacy-Enabling Techniques**
 
-- 💬 Ask me about **Cryptography, Privacy-Enabling Techniques, Searchable Symmetric Encryption**
+- 💬 Ask me about **Cryptography, Privacy-Enabling Techniques, Searchable Symmetric Encryption, OpenCL**
 
 - 📫 How to reach me **rayushi835@gmail.com**
 
