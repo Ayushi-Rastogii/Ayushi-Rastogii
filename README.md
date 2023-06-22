@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Cryptography, Privacy-Enabling Techniques, Searchable Symmetric Encryption**
 
-- 📫 How to reach me **rayushi835@gmmail.com**
+- 📫 How to reach me **rayushi835@gmail.com**
 
 - 📄 Know about my experiences [https://rayushi835.wixsite.com/ayushi](https://rayushi835.wixsite.com/ayushi)
 
