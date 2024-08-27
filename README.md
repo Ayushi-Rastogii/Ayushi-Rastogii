@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rayushi835@gmail.com**
 
-- 📄 Know about my experiences [https://rayushi835.wixsite.com/ayushi](https://rayushi835.wixsite.com/ayushi)
+- 📄 Know about my experiences [By my Portfolio](https://portfolio-1z5xro9x4-ayushi-rastogiis-projects.vercel.app/)
 
 - ⚡ Fun fact **I think I am a vibrant person**
 - My Research Interest: **Cryptography, Searchable Symmetric Encryption, FPGA-based Accelerators**
