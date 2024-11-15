@@ -1,22 +1,22 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*Kgt-NcWs9rhZKjk9wR1vxg.jpeg)](https://ayushi-rastogi.io)
 <h1 align="center">Hi 👋, I'm Ayushi Rastogi</h1>
-<h3 align="center">A passionate researcher in field of cryptography from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/X4fkkTFDTx4AAAAC/physical-security-market.gif">
 
-- 🔭 I’m currently working on **FPGA-based hardware accelerators for crypto-primitives**
+- 🔭 I’m currently working on **Bookshala** : An app cum sunday community for book lovers.  
 
-- 🌱 I’m currently learning **FPGA SoftcoreProcessors and IP Acquisition**
+- 🌱 I’m currently learning **Flask and Django Backend Development Frameworks**
 
-- 👯 I’m looking to collaborate on **Searchable Symmetric Encryption and Privacy-Enabling Techniques**
+- 👯 I’m looking to collaborate on **any exciting project revolving around software development**
 
-- 💬 Ask me about **Cryptography, Privacy-Enabling Techniques, Searchable Symmetric Encryption, OpenCL**
+- 💬 Ask me about **Flask, ReactJs, Software Development, Full Stack applications, Cryptography, Privacy-Enabling Techniques, Searchable Symmetric Encryption, OpenCL**
 
 - 📫 How to reach me **rayushi835@gmail.com**
 
 - 📄 Know about my experiences [By my Portfolio](https://portfolio-1z5xro9x4-ayushi-rastogiis-projects.vercel.app/)
 
 - ⚡ Fun fact **I think I am a vibrant person**
-- My Research Interest: **Cryptography, Searchable Symmetric Encryption, FPGA-based Accelerators**
+- My Work Interest: **Designing and developing clean backend solutions**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ayushi-rastogii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushi-rastogii" height="30" width="40" /></a>
