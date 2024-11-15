@@ -1,28 +1,74 @@
-[![MasterHead](https://images.pexels.com/photos/276452/pexels-photo-276452.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)](https://ayushi-rastogi.io)
+[![MasterHead](https://images.pexels.com/photos/276452/pexels-photo-276452.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)](https://portfolio-1z5xro9x4-ayushi-rastogiis-projects.vercel.app/)
+
 <h1 align="center">Hi 👋, I'm Ayushi Rastogi</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/couple-laptop-system-coding-n4ikawbchrh2w41k.webp">
+<h3 align="center">A Passionate Software Developer from India</h3>
 
-- 🔭 I’m currently working on **Bookshala** : An app cum sunday community for book lovers.  
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/couple-laptop-system-coding-n4ikawbchrh2w41k.webp" />
 
-- 🌱 I’m currently learning **Flask and Django Backend Development Frameworks**
+### 👩‍💻 About Me
+- 🔭 **Currently working on:** **[Bookshala](https://github.com/your_repo/bookshala)** - An app and Sunday community for book lovers.
+- 🌱 **Currently learning:** Flask and Django Backend Development Frameworks.
+- 👯 **Looking to collaborate on:** Any exciting project around software development.
+- 💬 **Ask me about:** Flask, ReactJs, Full Stack Development, Cryptography, Privacy-Enabling Techniques, Searchable Symmetric Encryption, OpenCL.
+- 📫 **Reach me at:** [rayushi835@gmail.com](mailto:rayushi835@gmail.com)
+- 📄 **Check out my portfolio:** [Ayushi's Portfolio](https://portfolio-1z5xro9x4-ayushi-rastogiis-projects.vercel.app/)
+- ⚡ **Fun fact:** I believe I'm a vibrant and curious person.
+- 💡 **Work Interest:** Designing and developing clean backend solutions.
 
-- 👯 I’m looking to collaborate on **any exciting project revolving around software development**
+---
 
-- 💬 Ask me about **Flask, ReactJs, Software Development, Full Stack applications, Cryptography, Privacy-Enabling Techniques, Searchable Symmetric Encryption, OpenCL**
-
-- 📫 How to reach me **rayushi835@gmail.com**
-
-- 📄 Know about my experiences [By my Portfolio](https://portfolio-1z5xro9x4-ayushi-rastogiis-projects.vercel.app/)
-
-- ⚡ Fun fact **I think I am a vibrant person**
-- My Work Interest: **Designing and developing clean backend solutions**
-<h3 align="left">Connect with me:</h3>
+### 🌐 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/ayushi-rastogii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushi-rastogii" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/ayushi-rastogii" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/your_twitter_handle" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://github.com/ayushi-rastogi" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushi-rastogi&show_icons=true&locale=en&layout=compact" alt="ayushi-rastogi" /></p>
+### 🛠️ Languages and Tools
+<p align="left"> 
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a> 
+  <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/> </a> 
+  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> </a> 
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushi-rastogi&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushi-rastogi&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+- 📚 [**Bookshala**](https://github.com/your_repo/bookshala) - A community app for book enthusiasts to share and review books.
+- 🌐 [**Personal Portfolio**](https://portfolio-1z5xro9x4-ayushi-rastogiis-projects.vercel.app/) - Showcasing my journey and skills.
+- 🔐 [**Cryptography Research**](https://github.com/your_repo/crypto-research) - Implementations of privacy-enhancing technologies.
+
+---
+
+### 💬 Fun Facts & Interests
+- ⚡ Fun fact: I love solving puzzles, both in code and life!
+- 🎨 Interests: Full Stack Development, Cryptography, Open Source Contributions.
+
+---
+
+### 📫 How to Reach Me
+If you’re interested in collaborating on projects or just want to say hi, feel free to reach out via [rayushi835@gmail.com](mailto:rayushi835@gmail.com).
+
+---
