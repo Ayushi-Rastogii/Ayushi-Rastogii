@@ -47,14 +47,6 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushi-rastogi&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushi-rastogi&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🚀 Featured Projects
 - 📚 [**Bookshala**](https://github.com/your_repo/bookshala) - A community app for book enthusiasts to share and review books.
 - 🌐 [**Personal Portfolio**](https://portfolio-1z5xro9x4-ayushi-rastogiis-projects.vercel.app/) - Showcasing my journey and skills.
