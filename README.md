@@ -1,4 +1,4 @@
-[![MasterHead][(https://images.pexels.com/photos/276452/pexels-photo-276452.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)](https://ayushi-rastogi.io)
+[![MasterHead](https://images.pexels.com/photos/276452/pexels-photo-276452.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)](https://ayushi-rastogi.io)
 <h1 align="center">Hi 👋, I'm Ayushi Rastogi</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/couple-laptop-system-coding-n4ikawbchrh2w41k.webp">
