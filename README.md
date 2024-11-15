@@ -1,7 +1,7 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*Kgt-NcWs9rhZKjk9wR1vxg.jpeg)](https://ayushi-rastogi.io)
 <h1 align="center">Hi 👋, I'm Ayushi Rastogi</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://gifdb.com/images/high/couple-laptop-system-coding-n4ikawbchrh2w41k.webp)]">
+<img align="right" alt="Coding" width="400" src="[https://gifdb.com/images/high/couple-laptop-system-coding-n4ikawbchrh2w41k.webp]">
 
 - 🔭 I’m currently working on **Bookshala** : An app cum sunday community for book lovers.  
 
